@@ -1,0 +1,4 @@
+This is an analysis of the audio from the Severance Lumen is Listening TV spot
+The goal is to decipher what the distorted audio is saying at the end
+The project includes a wav file with the spot audio
+The project uses python to perform the signal analysis
